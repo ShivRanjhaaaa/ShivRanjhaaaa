@@ -1,4 +1,4 @@
-##I'm Shivansh Ranjan
+# I'm Shivansh Ranjan
 # 💫 About Me:
 🔭 I’m currently working on various field to enhance myself.<br>👯 I’m looking to collaborate on projects.<br>🤝 I’m looking for help with growing myself.<br>🌱 I’m currently learning Java Full Stack with React.<br>💬 Ask me about what you want<br>⚡ Fun fact - Meet and get to know<br>
 
